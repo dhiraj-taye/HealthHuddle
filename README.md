@@ -1,6 +1,6 @@
 # Complaint Management System
 
-This web application allows users to raise complaints, and administrators can view, address, and manage them. It is built using Node.js with Next.js for the backend, React.js for the frontend, and MongoDB for data storage. The system also includes email notifications for new complaint submissions and status updates.
+This web application allows users to raise complaints, and administrators can view, address, and manage them. It is built using Node.js for the backend, React.js for the frontend, and MongoDB for data storage. The system also includes email notifications for new complaint submissions and status updates.
 
 ## Features
 
