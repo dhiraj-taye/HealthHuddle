@@ -8,7 +8,7 @@ This web application allows users to raise complaints, and administrators can vi
    - Users can submit complaints with the following fields:
      - Complaint Title (Text input)
      - Description (Text area)
-     - Category (Dropdown selection with options like "Product", "Service", "Support")
+     - Category (Dropdown selection with options like "Product", "Service", and "Support")
      - Priority (Radio buttons with options: "Low", "Medium", "High")
      - Submit Button to submit complaints.
 
@@ -46,10 +46,10 @@ This web application allows users to raise complaints, and administrators can vi
 
 ## Demo Links
 
-- **Frontend Demo:** [Live Demo](https://yourfrontenddemo.vercel.app)
-- **Backend Demo:** [Live API](https://yourbackenddemo.herokuapp.com/api)
+- **Frontend Demo:** [Live Demo](https://resolve-hub-frontend.vercel.app/)
+- **Admin Demo:** [Live Demo](https://resolve-hub-admin.vercel.app/)
+- **Backend Demo:** [Live API](https://resolve-hub-backend.vercel.app/)
 
-(Replace the demo links with your actual deployed URLs)
 
 ## Setup Instructions
 
